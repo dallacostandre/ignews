@@ -1,0 +1,14 @@
+
+import Head from 'next/head';
+import { Header } from '../components/Header';
+
+export default function Home() {
+  return (
+    <>
+        <Head>
+            <title>Inicio</title>
+        </Head>
+        <Header></Header>
+    </>
+  )
+}
