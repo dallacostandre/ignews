@@ -105,7 +105,7 @@ module.exports = require("stripe");
 /***/ ((module) => {
 
 "use strict";
-module.exports = JSON.parse('{"name":"ignews","version":"0.1.0","private":true,"scripts":{"dev":"next dev","build":"next build","start":"next start","lint":"next lint"},"dependencies":{"next":"12.3.1","react":"18.2.0","react-dom":"18.2.0","react-icons":"^4.6.0","sass":"^1.55.0","stripe":"^10.15.0"},"devDependencies":{"@types/node":"^18.11.4","@types/react":"^18.0.21","eslint":"8.26.0","eslint-config-next":"12.3.1","typescript":"^4.8.4"}}');
+module.exports = JSON.parse('{"name":"ignews","version":"0.1.0","private":true,"scripts":{"dev":"next dev","build":"next build","start":"next start","lint":"next lint"},"dependencies":{"16":"^0.0.2","next":"12.3.1","next-auth":"^4.15.0","node":"^19.0.0","nvm":"^0.0.4","react":"18.2.0","react-dom":"18.2.0","react-icons":"^4.6.0","sass":"^1.55.0","stripe":"^10.15.0"},"devDependencies":{"@types/node":"^18.11.4","@types/react":"^18.0.21","eslint":"8.26.0","eslint-config-next":"12.3.1","typescript":"^4.8.4"}}');
 
 /***/ })
 
